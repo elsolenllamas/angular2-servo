@@ -7,3 +7,5 @@ In the code project the servo is connected to the Arduino PIN 5.<br/>
 npm install<br/>
 npm start<br/>
 Browser is open in localhost:3000
+
+<img src="https://github.com/elsolenllamas/angular2-servo/blob/master/servo-img.jpg" />
